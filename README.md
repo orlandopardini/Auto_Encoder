@@ -63,3 +63,9 @@ Os autoencoders são avaliados por:
 - Otimizadores como Adam
 - Visualizações com Matplotlib
 """
+
+---
+Exemplo:
+
+![image](https://github.com/user-attachments/assets/b17671f3-77d4-457f-abc0-c5506e1de2da)
+
